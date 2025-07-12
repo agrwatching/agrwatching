@@ -1,49 +1,30 @@
-- 👋 Hi, I’m watchingX
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Agr Watching</h1>
+<h3 align="center">A passionate Fullstack Developer & Software Engineer</h3>
 
-<!---
-agrwatching/agrwatching is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=450&lines=Software+Engineer;Fullstack+Web+Developer;Google+Developer+Expert+%28Android%29;Lover+of+Open+Source+and+Clean+Code" alt="Typing SVG" />
+</p>
 
-tutorial github
-jangan lupa download git terlebih dahulu.
+---
 
-git init
-Artinya: Menginisialisasi repository Git di folder lokal kamu.
-Fungsi: Membuat folder .git tersembunyi di direktori kamu untuk mulai melacak perubahan file dengan Git.
+## 👨‍💻 About Me
 
-git config --global user.name "Nama Kamu"
-git config --global user.email "emailkamu@example.com"
+- 🔭 I’m currently working on **a CO2 Emission Prediction App** using React, Express, Flask & ML
+- 🌱 I’m constantly learning **AI, DevOps, and scalable backend systems**
+- 🏆 Google Developer Expert — **Android & Mobile**
+- 💬 Ask me about **React, Node.js, Flask, Tailwind, MySQL**
+- 💼 Currently open to remote freelance or collaborative dev projects
+- 📫 Reach me at **agrwatching@gmail.com**
 
-git add README.md
-Artinya: Menambahkan file README.md ke staging area.
-Fungsi: Memberi tahu Git bahwa kamu ingin menyertakan file ini dalam commit selanjutnya.
+---
 
-3. git commit -m "first commit"
-Artinya: Membuat commit pertama dengan pesan "first commit".
-Fungsi: Menyimpan snapshot dari file yang sudah di-add tadi ke dalam riwayat versi Git.
+## 🛠️ Tech Stack
 
-4. git branch -M main
-Artinya: Mengubah nama branch saat ini menjadi main.
-Fungsi: Branch default Git dulu bernama master, sekarang banyak orang menggunakan main sebagai standar.
-
-5. git remote add origin https://github.com/watchingx/Kampus-mengajar-angkatan8.git
-Artinya: Menambahkan remote bernama origin yang menunjuk ke URL GitHub tersebut.
-Fungsi: Memberitahu Git ke mana kamu ingin mengirim (push) repositorimu secara online.
-
-6. git push -u origin main
-Artinya: Mengirim branch main dari repositori lokal ke origin (GitHub).
-Fungsi: Upload proyek kamu ke GitHub dan menetapkan origin/main sebagai default upstream branch, jadi ke depannya cukup pakai git push saja.
-
-kemudian jika ingin mengedit projek yang sudah ada tinggal clone.
-git clone {copy-paste link}.git
-edit ....
-git add .
-git commit -m "Deskripsi perubahan yang kamu lakukan"
-git push
+```bash
+💻 Languages:      JavaScript | Python | Java | SQL
+🌐 Frontend:       React | TailwindCSS | HTML/CSS | Next.js
+🔧 Backend:        Node.js | Express | Flask | REST APIs
+🧠 Machine Learning: scikit-learn | pandas | numpy | Flask API
+🗄️ Database:       MySQL | SQLite | PostgreSQL
+☁️ Tools:          Git | Docker | Figma | Firebase | Vercel
+📱 Mobile:         Kotlin | Android SDK | Jetpack Compose
