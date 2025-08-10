@@ -31,6 +31,8 @@
 🗄️ Database         :      MySQL | SQLite | PostgreSQL
 ☁️ Tools            :      Git | Docker | Figma | Firebase | Vercel
 📱 Mobile           :      Kotlin | Android SDK | Jetpack Compose
+```
 
 <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Funny Meme" width="200" style="margin: 0 10px;"/>
 <img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Hacker Coding style="margin: 0 10px;"/>
+
