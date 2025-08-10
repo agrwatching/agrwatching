@@ -14,6 +14,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Funny Meme" width="300"/>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNwajFqbmtnYjZ0a3hpc2hsMWlpZXJrdGsycGFyd3F6czl5dzg4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N1wpBzmRVfR3fEjv0g/giphy.gif" alt="Sigma Meme" width="300"/>
+</p>
 
 - 🔭 I’m currently working on **a CO2 Emission Prediction App** using React, Express, Flask & ML
 - 🌱 I’m constantly learning **AI, DevOps, and scalable backend systems**
