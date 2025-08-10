@@ -21,10 +21,10 @@
 ## 🛠️ Tech Stack
 
 ```bash
-💻 Languages:      JavaScript | Python | Java | SQL
-🌐 Frontend:       React | TailwindCSS | HTML/CSS | Next.js
-🔧 Backend:        Node.js | Express | Flask | REST APIs
-🧠 Machine Learning: scikit-learn | pandas | numpy | Flask API
-🗄️ Database:       MySQL | SQLite | PostgreSQL
-☁️ Tools:          Git | Docker | Figma | Firebase | Vercel
-📱 Mobile:         Kotlin | Android SDK | Jetpack Compose
+💻 Languages        :      JavaScript | Python | Java | SQL
+🌐 Frontend         :       React | TailwindCSS | HTML/CSS | Next.js
+🔧 Backend          :        Node.js | Express | Flask | REST APIs
+🧠 Machine Learning : scikit-learn | pandas | numpy | Flask API
+🗄️ Database         :       MySQL | SQLite | PostgreSQL
+☁️ Tools            :          Git | Docker | Figma | Firebase | Vercel
+📱 Mobile           :         Kotlin | Android SDK | Jetpack Compose
