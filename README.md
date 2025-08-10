@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="250"/>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Meme" width="300"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Funny Meme" width="300"/>
 </p>
 
 - 🔭 I’m currently working on **a CO2 Emission Prediction App** using React, Express, Flask & ML
