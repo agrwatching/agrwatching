@@ -10,8 +10,6 @@
 ## 👨‍💻 About Me
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="400" style="margin: 0 10px;"/>
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Funny Meme" width="200" style="margin: 0 10px;"/>
-  <img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Hacker Coding style="margin: 0 10px;"/>
 </p>
 
 - 🔭 I’m currently working on **a CO2 Emission Prediction App** using React, Express, Flask & ML
@@ -33,3 +31,6 @@
 🗄️ Database         :      MySQL | SQLite | PostgreSQL
 ☁️ Tools            :      Git | Docker | Figma | Firebase | Vercel
 📱 Mobile           :      Kotlin | Android SDK | Jetpack Compose
+
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Funny Meme" width="200" style="margin: 0 10px;"/>
+<img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Hacker Coding style="margin: 0 10px;"/>
