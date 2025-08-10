@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="250" style="margin: 0 10px;"/>
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Funny Meme" width="300" style="margin: 0 10px;"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNwajFqbmtnYjZ0a3hpc2hsMWlpZXJrdGsycGFyd3F6czl5dzg4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N1wpBzmRVfR3fEjv0g/giphy.gif" alt="Sigma Meme" width="300" style="margin: 0 10px;"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Uxb3phNTNybnJ5NmozMmFua3czdzdud25hZ2h1a25zejVwcnViMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W7Jc5gGZ38zjWTPG8v/giphy.gif" alt="Sigma Meme" width="300" style="margin: 0 10px;"/>
 </p>
 
 - 🔭 I’m currently working on **a CO2 Emission Prediction App** using React, Express, Flask & ML
