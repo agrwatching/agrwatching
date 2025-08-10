@@ -25,7 +25,7 @@
 ## 🛠️ Tech Stack
 
 ```bash
-💻 Languages        :      JavaScript | Python | Java | SQL
+💻 Languages        :      JavaScript | TypeScript | Python | Java | SQL
 🌐 Frontend         :      React | TailwindCSS | HTML/CSS | Next.js
 🔧 Backend          :      Node.js | Express | Flask | REST APIs
 🧠 Machine Learning :      scikit-learn | pandas | numpy | Flask API
