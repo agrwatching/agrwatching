@@ -11,9 +11,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="250" style="margin: 0 10px;"/>
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Funny Meme" width="300" style="margin: 0 10px;"/>
-  <img src="https://media.tenor.com/3fHgZr7pS7sAAAAC/bruce-wayne-batman.gif" width="300" alt="Bruce Wayne Meme"/>
+  <img src="https://giphy.com/embed/ZVik7pBtu9dNS.gif" width="300" alt="Bruce Wayne Meme"/>
 </p>
-<iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>
 
 - 🔭 I’m currently working on **a CO2 Emission Prediction App** using React, Express, Flask & ML
 - 🌱 I’m constantly learning **AI, DevOps, and scalable backend systems**
