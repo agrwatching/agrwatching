@@ -18,7 +18,7 @@
 - 🏆 Google Developer Expert — **Android & Mobile**
 - 💬 Ask me about **React, Node.js, Flask, Tailwind, MySQL**
 - 💼 Currently open to remote freelance or collaborative dev projects
-- 📫 Reach me at **agrwatching@gmail.com**
+- 📫 Reach me at **agragemers77@gmail.com**
 
 ---
 
