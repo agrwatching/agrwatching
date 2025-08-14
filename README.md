@@ -32,9 +32,9 @@
 ☁️ Tools            :      Git | Docker | Figma | Firebase | Vercel
 📱 Mobile           :      Kotlin | Android SDK | Jetpack Compose
 ```
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Funny Meme" width="200" style="margin: 0 10px;"/>
-<img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Hacker Coding style="margin: 0 10px;"/>
-</p>
+##  Bahasa Pemrograman yang Sering Digunakan
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrwatching&layout=pie&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
