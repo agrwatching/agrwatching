@@ -34,22 +34,4 @@
 ```
 ## Bahasa Pemrograman yang Sering Digunakan (Dummy)
 
-![Donut Chart](https://quickchart.io/chart?c={
-  type:'doughnut',
-  data:{
-    labels:['TypeScript','JavaScript','HTML','Flask','PHP'],
-    datasets:[{
-      data:[40,20,10,10,20],
-      backgroundColor:['#3178C6','#F7DF1E','#E34F26','#000000','#4F5B93']
-    }]
-  },
-  options:{
-    plugins:{
-      legend:{position:'bottom'}
-    }
-  }
-})
-
-
-
-
+![Donut Chart](https://quickchart.io/chart?c=%7B%0A%20%20type%3A%27doughnut%27%2C%0A%20%20data%3A%7B%0A%20%20%20%20labels%3A%5B%27TypeScript%27%2C%27JavaScript%27%2C%27HTML%27%2C%27Flask%27%2C%27PHP%27%5D%2C%0A%20%20%20%20datasets%3A%5B%7B%0A%20%20%20%20%20%20data%3A%5B40%2C20%2C10%2C10%2C20%5D%2C%0A%20%20%20%20%20%20backgroundColor%3A%5B%27%233178C6%27%2C%27%23F7DF1E%27%2C%27%23E34F26%27%2C%27%23000000%27%2C%27%234F5B93%27%5D%0A%20%20%20%20%7D%5D%0A%20%20%7D%2C%0A%20%20options%3A%7B%0A%20%20%20%20plugins%3A%7B%0A%20%20%20%20%20%20legend%3A%7Bposition%3A%27bottom%27%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)
