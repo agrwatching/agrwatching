@@ -32,9 +32,24 @@
 ☁️ Tools            :      Git | Docker | Figma | Firebase | Vercel
 📱 Mobile           :      Kotlin | Android SDK | Jetpack Compose
 ```
-##  Bahasa Pemrograman yang Sering Digunakan
+## Bahasa Pemrograman yang Sering Digunakan (Dummy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrwatching&layout=pie&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Donut Chart](https://quickchart.io/chart?c={
+  type:'doughnut',
+  data:{
+    labels:['TypeScript','JavaScript','HTML','Flask','PHP'],
+    datasets:[{
+      data:[40,20,10,10,20],
+      backgroundColor:['#3178C6','#F7DF1E','#E34F26','#000000','#4F5B93']
+    }]
+  },
+  options:{
+    plugins:{
+      legend:{position:'bottom'}
+    }
+  }
+})
+
 
 
 
