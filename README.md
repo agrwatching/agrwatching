@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agr Watching</h1>
-<h3 align="center">A passionate Fullstack Developer & Software Engineer</h3>
+<h3 align="center">A passionate Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=450&lines=Software+Engineer;Fullstack+Web+Developer;Google+Developer+Expert+%28Android%29;Lover+of+Open+Source+and+Clean+Code" alt="Typing SVG" />
