@@ -60,6 +60,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=agrwatching&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C896&line=3178C6&point=ffffff" width="95%"/>
 </div>
 
+> ⚠️ Kalau gambar di atas kadang gak muncul / patah, itu bukan salah kode — demo instance vercel-nya sering kena rate limit karena dipakai jutaan orang. Solusi permanen: fork repo `github-readme-stats`, `github-readme-streak-stats`, dan `github-readme-activity-graph`, deploy sendiri ke Vercel kamu, terus ganti domain di URL di atas jadi domain Vercel kamu sendiri.
+
 ---
 
 ## 🐍 Contribution Snake
@@ -68,7 +70,7 @@
   <img src="https://raw.githubusercontent.com/agrwatching/agrwatching/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ⚠️ Grafik ular ini **butuh setup sekali** lewat GitHub Action (file-nya udah aku siapin terpisah, tinggal commit). Lihat instruksi di bagian bawah.
+> ⚠️ Grafik ular ini **butuh setup sekali** lewat GitHub Action (`Platane/snk`) di repo profile kamu (`agrwatching/agrwatching`) supaya branch `output` ke-generate. Kalau branch `output` belum ada / belum jalan Action-nya, gambar ini pasti gak muncul.
 
 ---
 
@@ -78,14 +80,22 @@
   <img src="https://github-profile-trophy.vercel.app/?username=agrwatching&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
+> ⚠️ Sama kayak stats di atas, `github-profile-trophy` demo instance juga sering overload. Fork & self-host kalau mau reliable 100%.
+
 ---
 
-## 📈 Bahasa Pemrograman yang Sering Digunakan
+## 💻 Bahasa & Tools yang Sering Digunakan
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C896,100:3178C6&height=80&section=header&animation=fadeIn" width="100%"/>
+</div>
 
-![Line Chart](https://quickchart.io/chart?c=%7B%0A%20%20type%3A%20%27line%27%2C%0A%20%20data%3A%20%7B%0A%20%20%20%20labels%3A%20%5B%27HTML%27%2C%20%27PHP%27%2C%20%27JavaScript%27%2C%20%27TypeScript%27%2C%20%27Flask%27%5D%2C%0A%20%20%20%20datasets%3A%20%5B%7B%0A%20%20%20%20%20%20label%3A%20%27Skill%20Trend%27%2C%0A%20%20%20%20%20%20data%3A%20%5B10%2C%2020%2C%2020%2C%2040%2C%2010%5D%2C%0A%20%20%20%20%20%20borderColor%3A%20%27%2300C896%27%2C%0A%20%20%20%20%20%20backgroundColor%3A%20%27rgba(0%2C200%2C150%2C0.2)%27%2C%0A%20%20%20%20%20%20fill%3A%20true%2C%0A%20%20%20%20%20%20tension%3A%200.4%0A%20%20%20%20%7D%5D%0A%20%20%7D%2C%0A%20%20options%3A%20%7B%0A%20%20%20%20plugins%3A%20%7B%0A%20%20%20%20%20%20title%3A%20%7Bdisplay%3A%20true%2C%20text%3A%20%27Top%20Languages%20-%20Line%20Chart%27%2C%20font%3A%20%7Bsize%3A%2018%7D%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20scales%3A%20%7By%3A%20%7BbeginAtZero%3A%20true%2C%20max%3A%2050%7D%7D%0A%20%20%7D%0A%7D)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,php,js,ts,flask,py,react,nextjs,nodejs,express,mysql,tailwind&theme=dark&perline=6" />
+</p>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:3178C6,100:00C896&height=80&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
 ---
