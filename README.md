@@ -53,14 +53,16 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agrwatching&theme=radical&hide_border=true&background=0d1117&ring=00C896&fire=3178C6&currStreakLabel=00C896" />
+  <img src="https://streak-stats.demolab.com/?user=agrwatching&theme=radical&hide_border=true&background=0d1117&ring=00C896&fire=3178C6&currStreakLabel=00C896" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=agrwatching&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C896&line=3178C6&point=ffffff" width="95%"/>
 </div>
 
-> ⚠️ Kalau gambar di atas kadang gak muncul / patah, itu bukan salah kode — demo instance vercel-nya sering kena rate limit karena dipakai jutaan orang. Solusi permanen: fork repo `github-readme-stats`, `github-readme-streak-stats`, dan `github-readme-activity-graph`, deploy sendiri ke Vercel kamu, terus ganti domain di URL di atas jadi domain Vercel kamu sendiri.
+> ⚠️ Penyebab gambar patah:
+> - **Streak stats** dulu domainnya `github-readme-streak-stats.herokuapp.com` — Heroku udah cabut free tier-nya dari 2022, makanya link lama itu mati total. Udah saya ganti ke domain resmi barunya: `streak-stats.demolab.com`.
+> - **Top langs & activity graph** kadang patah karena: (a) demo instance vercel-nya kena rate limit (dipakai jutaan orang), atau (b) akun kamu belum punya cukup repo publik buat dihitung statistiknya. Kalau username & repo udah bener tapi masih patah-patah, solusi permanen: fork repo `github-readme-stats` & `github-readme-activity-graph`, deploy sendiri ke Vercel kamu, terus ganti domain di URL jadi domain Vercel kamu sendiri.
 
 ---
 
@@ -84,18 +86,12 @@
 
 ---
 
-## 💻 Bahasa & Tools yang Sering Digunakan
+## 📈 Bahasa Pemrograman yang Sering Digunakan
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C896,100:3178C6&height=80&section=header&animation=fadeIn" width="100%"/>
-</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,php,js,ts,flask,py,react,nextjs,nodejs,express,mysql,tailwind&theme=dark&perline=6" />
-</p>
+![Wave Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%20%22line%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22HTML%22%2C%20%22PHP%22%2C%20%22JavaScript%22%2C%20%22TypeScript%22%2C%20%22Python%22%2C%20%22React%22%2C%20%22Next.js%22%2C%20%22Flask%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Skill%20Wave%22%2C%20%22data%22%3A%20%5B65%2C%2055%2C%2085%2C%2092%2C%2075%2C%2088%2C%2095%2C%2060%5D%2C%20%22fill%22%3A%20true%2C%20%22backgroundColor%22%3A%20%22rgba(0%2C200%2C150%2C0.35)%22%2C%20%22borderColor%22%3A%20%22%2300C896%22%2C%20%22borderWidth%22%3A%203%2C%20%22tension%22%3A%200.45%2C%20%22pointRadius%22%3A%200%7D%2C%20%7B%22label%22%3A%20%22Skill%20Wave%202%22%2C%20%22data%22%3A%20%5B50%2C%2070%2C%2060%2C%2080%2C%2090%2C%2065%2C%2078%2C%2088%5D%2C%20%22fill%22%3A%20true%2C%20%22backgroundColor%22%3A%20%22rgba(49%2C120%2C198%2C0.25)%22%2C%20%22borderColor%22%3A%20%22%233178C6%22%2C%20%22borderWidth%22%3A%203%2C%20%22tension%22%3A%200.45%2C%20%22pointRadius%22%3A%200%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Bahasa%20%26%20Tools%20yang%20Sering%20Digunakan%22%2C%20%22color%22%3A%20%22%23ffffff%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2020%7D%7D%7D%2C%20%22scales%22%3A%20%7B%22x%22%3A%20%7B%22grid%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22ticks%22%3A%20%7B%22color%22%3A%20%22%23ffffff%22%7D%7D%2C%20%22y%22%3A%20%7B%22display%22%3A%20false%2C%20%22beginAtZero%22%3A%20true%2C%20%22max%22%3A%20100%7D%7D%7D%7D&backgroundColor=%230d1117&width=800&height=300&devicePixelRatio=2)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:3178C6,100:00C896&height=80&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
 ---
