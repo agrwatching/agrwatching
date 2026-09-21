@@ -48,24 +48,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=agrwatching&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00C896&icon_color=00C896&text_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrwatching&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C896&text_color=ffffff&langs_count=8" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=agrwatching&theme=radical&hide_border=true&background=0d1117&ring=00C896&fire=3178C6&currStreakLabel=00C896" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agrwatching&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C896&line=3178C6&point=ffffff" width="95%"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agrwatching&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
 ---
