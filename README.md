@@ -60,20 +60,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=agrwatching&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C896&line=3178C6&point=ffffff" width="95%"/>
 </div>
 
-> ⚠️ Penyebab gambar patah:
-> - **Streak stats** dulu domainnya `github-readme-streak-stats.herokuapp.com` — Heroku udah cabut free tier-nya dari 2022, makanya link lama itu mati total. Udah saya ganti ke domain resmi barunya: `streak-stats.demolab.com`.
-> - **Top langs & activity graph** kadang patah karena: (a) demo instance vercel-nya kena rate limit (dipakai jutaan orang), atau (b) akun kamu belum punya cukup repo publik buat dihitung statistiknya. Kalau username & repo udah bener tapi masih patah-patah, solusi permanen: fork repo `github-readme-stats` & `github-readme-activity-graph`, deploy sendiri ke Vercel kamu, terus ganti domain di URL jadi domain Vercel kamu sendiri.
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/agrwatching/agrwatching/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> ⚠️ Grafik ular ini **butuh setup sekali** lewat GitHub Action (`Platane/snk`) di repo profile kamu (`agrwatching/agrwatching`) supaya branch `output` ke-generate. Kalau branch `output` belum ada / belum jalan Action-nya, gambar ini pasti gak muncul.
-
 ---
 
 ## 🏆 Trophies
@@ -81,8 +67,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=agrwatching&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </div>
-
-> ⚠️ Sama kayak stats di atas, `github-profile-trophy` demo instance juga sering overload. Fork & self-host kalau mau reliable 100%.
 
 ---
 
